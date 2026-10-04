@@ -1,0 +1,19 @@
+node_modules/
+dist/
+coverage/
+*.log
+npm-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Runtime data
+data/appointments.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

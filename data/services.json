@@ -1,0 +1,12 @@
+{
+  "timezoneNote": "All times are in the store's local time.",
+  "openingHours": { "start": "09:00", "end": "17:00" },
+  "closedWeekdays": [0],
+  "slotMinutes": 30,
+  "services": [
+    { "id": "grooming", "name": "Full grooming session", "durationMinutes": 60, "price": 45 },
+    { "id": "nail-trim", "name": "Nail trim", "durationMinutes": 30, "price": 12 },
+    { "id": "vet-checkup", "name": "Vet check-up", "durationMinutes": 30, "price": 35 },
+    { "id": "training", "name": "Puppy training consultation", "durationMinutes": 60, "price": 50 }
+  ]
+}
